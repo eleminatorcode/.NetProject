@@ -167,6 +167,11 @@ body {
         display: none;
     }
 
+    .logo{
+        flex:1;
+        text-align:center;
+    }
+
     .navbar .logo a {
         font-family: 'Trade Winds';
         color: #5558c9;
