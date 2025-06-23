@@ -29,7 +29,7 @@ A responsive ASP.NET Web Forms application to manage school operations efficient
 ## 📸 Screenshots
 
 1. **Login Page (Admin/Teacher access)**  
-   ![Login Page](./screenshots/login.png)
+   ![Login Page](./screenshots/Login.png)
 
 2. **Admin Dashboard**  
    Displays key counts: Students, Teachers, Classes, Subjects.  
